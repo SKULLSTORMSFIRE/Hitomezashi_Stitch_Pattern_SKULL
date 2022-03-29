@@ -11,7 +11,6 @@ void setup() {
   alpha.linebuilder(1, 500);
 }
 
-
 void draw() {
   background(255);
   alpha = new drawline();
